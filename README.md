@@ -1,5 +1,10 @@
 # Engineering_4_Notebook
 Notebook for Engineering 4 taken at Charlottesville High School 21-22
+
+
+### -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # Python
 This year I am working on scripting python using a raspberry pi. Below you will find my completed scripting challenges this year. 
 
@@ -38,6 +43,10 @@ https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/hangman_scri
 ### Screenshot:
 ![Hangman](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/hangmanss.png)
 
+
+### -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # OnShape CAD
 This year we are lucky enough to use an amazing program called OnShape for our CAD work. This is a completely cloud based CAD software. These are my CAD assignments for the 2021-22 year.
 
@@ -50,10 +59,15 @@ In this assignment, we were tasked to design a part in onshpae only using drawin
 In this optional assignment, we were tasked to create 3 variations of an object based on dimensioned drawings alone. We tested whether our parts were correct or not by measuring the mass of the part with a given material. I succesfully completed all of them. In this assignment I expanded my knowledge on using drawings as references for cad parts, and using splines and constrictions. 
 ### Screenshots of Tool Blocks:
 Tool block 1:
+
 ![Tool Block 1](https://github.com/msweet53/Engineering_4_Notebook/blob/main/CAD/Toolblock1SS.png)
+
 Tool block 2:
+
 ![Tool Block 2](https://github.com/msweet53/Engineering_4_Notebook/blob/main/CAD/Toolblock2SS.png)
+
 Tool block 3:
+
 ![Tool Block 3](https://github.com/msweet53/Engineering_4_Notebook/blob/main/CAD/Toolblock3SS.png)
 
 ## CAD intro: Skateboard

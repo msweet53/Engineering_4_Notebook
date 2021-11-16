@@ -47,7 +47,12 @@ https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/hangman_scri
 ![Hangman](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/hangmanss.png)
 I put together all of the fundamentals that I had learned in the previous assignments and larned some more about functions, printing strings, and other various scripting elements in this assignment. I learned more about the process of making longer and more complex scripts too.
 
-
+## Double LED blink
+The purpose of this assignment was to learn how to use GPIO pins and make LEDS blink using the RPi.
+### Code:
+https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/doubleblink.py
+### Reflection:
+This assigment tought me how to manipulate real world bojects such as LEDs uding the Raspberry Pi. This also tought me how to script real world objects in Python without using CircuitPython. This assigment will be very helpful in the future for our Pi in the Sky project later this year. +
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 

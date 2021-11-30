@@ -53,6 +53,16 @@ The purpose of this assignment was to learn how to use GPIO pins and make LEDS b
 https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/doubleblink.py
 ### Reflection:
 This assigment tought me how to manipulate real world bojects such as LEDs uding the Raspberry Pi. This also tought me how to script real world objects in Python without using CircuitPython. This assigment will be very helpful in the future for our Pi in the Sky project later this year. +
+
+## Acceleration + OLED script
+The purpose of this assignment was to create a script that used data from an accelerometer and displayed it on an oled screen.
+### Code:
+https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/AccelerationScreen.py
+### Reflection:
+This assignment tought me how to use an accelerometer and an OLED display with my pi. This is extremely helpful because we are going to implement an accelerometer in our project this year. This assignment also tought me more about how helpful example scripts can be for figuring out how something foreign to you interfaces with the hardware you are using.
+### GIF:
+![accel](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/accelscriptgif.gif)
+
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 

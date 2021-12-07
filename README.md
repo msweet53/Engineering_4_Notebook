@@ -63,6 +63,15 @@ This assignment tought me how to use an accelerometer and an OLED display with m
 ### GIF:
 ![accel](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/accelscriptgif.gif)
 
+## Acceleration bubble script
+The purpose of this assignment was to create a graphical display of the accelerometer's readings that visibly show the x and y acceleration values on some sort of graph. 
+### Code:
+https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/acceleration_bubble.py
+### Reflection:
+This assignment taught me more about ising the oled screen including how to use different shapes, and positioning things on the oled screen. I also learned how to get scripts to run instantly when booting up the pi. This is going to be very helpful in the future with our pi in the sky project. 
+### GIF:
+![accelbub](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/accelbubblegif.gif)
+
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 

@@ -7,5 +7,5 @@ with picamera.PiCamera() as camera:
     print("running")
     # Camera warm-up time
     time.sleep(2)
-    camera.capture('currentimage.jpg')
+    camera.capture('urmom.png')
     print("finished")

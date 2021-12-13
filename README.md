@@ -72,6 +72,21 @@ This assignment taught me more about ising the oled screen including how to use 
 ### GIF:
 ![accelbub](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/accelbubblegif.gif)
 
+### Camera Test 1 and 2
+The purpose of this assignment was to learn how to operate the pi's camera using a python script.
+### Code:
+https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/camera_test_01.py
+https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/camera_test_02.py
+### Reflection:
+This assignment taught me how to use the pi's camera using a python script. I also learned how to change to different camera effects. This assignment will help us in the future when we are trying to use the camera module for our pi in the sky project.
+### Images:
+![code](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/cameratest2.png)
+![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/negative.jpg)
+![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/emboss.jpg)
+![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/denoise.jpg)
+![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/sketch.jpg)
+![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/solarize.jpg)
+
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 

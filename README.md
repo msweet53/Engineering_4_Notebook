@@ -87,6 +87,15 @@ This assignment taught me how to use the pi's camera using a python script. I al
 ![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/sketch.jpg)
 ![pic](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/solarize.jpg)
 
+### Push Button Stop Motion
+The purpose of this assignment was to create a push button stop motion animation using the raspberry pi and python. 
+### Code:
+https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/StopMotion.py
+### Reflection:
+This assignment tought me more about how to use the raspberry pi's camera. This assignment also tought me how to make animations and turn things into mp4s using terminal. This assignment will be very helpful in the future for our pi in the sky project.
+### Video:
+![animation](https://github.com/msweet53/Engineering_4_Notebook/blob/main/Python/animation.mp4)
+
 ### -----------------------------------------------------------------------------------------------------------------------------
 
 
